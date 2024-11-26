@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasreddineelmadhkour&label=Profile%20views&color=0e75b6&style=flat" alt="nasreddineelmadhkour" /> </p>
 
-- 🔭 I’m currently working on [Supply Chain Tracking](https://github.com/nasreddineelmadhkour/SupplyChainTracking)
+- 🔭 I’m currently working on [IA Detection Deep-learning](https://github.com/nasreddineelmadhkour/IA-Detection-deep-learning)
 
-- 🌱 I’m currently learning **Flutter and Spring boot**
+- 🌱 I’m currently learning **Flask - Python**
 
 - 💬 Ask me about **Spring , Angular and Flutter**
 
