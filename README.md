@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **.NET - NodeJs - VueJs**
 
-- 💬 Ask me about **Spring , Angular and Flutter**
+- 💬 Ask me about **Spring , Vue and Flutter**
 
 - 📫 How to reach me **nasreddine.elmadhkour@gmail.com**
 
