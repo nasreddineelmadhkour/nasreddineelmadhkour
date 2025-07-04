@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [IA Detection Deep-learning](https://github.com/nasreddineelmadhkour/IA-Detection-deep-learning)
 
-- 🌱 I’m currently learning **.NET - NodeJs - VueJs**
+- 🌱 I’m currently learning **NodeJs - VueJs - .NET**
 
 - 💬 Ask me about **Spring , Vue and Flutter**
 
