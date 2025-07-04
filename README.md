@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Spring , Vue and Flutter**
 
-- 📫 How to reach me **nasreddine.elmadhkour@gmail.com**
+- 📫 How to reach me **nasreddine.elmadhkour@outlook.com**
 
 - ⚡ Fun fact **I am Funny**
 
